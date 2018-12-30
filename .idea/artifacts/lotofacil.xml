@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="lotofacil">
+    <output-path>$PROJECT_DIR$/out/artifacts/lotofacil</output-path>
+    <root id="root">
+      <element id="library" level="application" name="groovy-2.5.1 (2)" />
+      <element id="archive" name="lotofacil.jar">
+        <element id="module-output" name="lotofacil" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
